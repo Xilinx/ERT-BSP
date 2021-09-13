@@ -1,9 +1,9 @@
 LEGAL NOTICE FOR THE FOLLOWING FILES:
 
-https://github.com/<FULL-RUL-PATH-TBD>/sched_bsp.tar.bz2
-https://github.com/<FULL-RUL-PATH-TBD>/sched_bsp_u50.tar.bz2
-https://github.com/<FULL-RUL-PATH-TBD>/sched_bsp.v20tar.bz2
-https://github.com/<FULL-RUL-PATH-TBD>/sched_bspv30.tar.bz2
+https://github.com/Xilinx/ERT-BSP/blob/main/BSPs/sched_bsp.tar.bz2
+https://github.com/Xilinx/ERT-BSP/blob/main/BSPs/sched_bsp_u50.tar.bz2
+https://github.com/Xilinx/ERT-BSP/blob/main/BSPs/sched_bsp_v20.tar.bz2
+https://github.com/Xilinx/ERT-BSP/blob/main/BSPs/sched_bsp_v30.tar.bz2
 
 THE ABOVE REFERENCED FILES CONTAIN SOFTWARE COPYRIGHTED BY XILINX AND THIRD PARTIES AND ARE LICENSED UNDER THE FOLLOWING LICENSE TERMS AND CONDITIONS:
 
